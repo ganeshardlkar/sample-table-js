@@ -1,0 +1,32 @@
+
+body {
+    background-color: rgba(0, 0, 0, 0.934);
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    color: white;
+    border-collapse: collapse;
+    margin: 50px 0px;
+    padding: 30px 0;
+
+    font-size: 24px;
+}
+
+th, td {
+    padding: 20px 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.img-style {
+    width: 30px;
+    margin-right: 13px;
+}
